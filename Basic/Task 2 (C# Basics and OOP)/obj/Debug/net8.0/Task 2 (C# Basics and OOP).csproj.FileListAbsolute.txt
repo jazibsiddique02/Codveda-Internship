@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\Codveda\Basic\Task 2 (C# Basics and OOP)\bin\Debug\net8.0\Task 2 (C# Basics and OOP).exe
+C:\Users\DELL\Desktop\Codveda\Basic\Task 2 (C# Basics and OOP)\bin\Debug\net8.0\Task 2 (C# Basics and OOP).deps.json
+C:\Users\DELL\Desktop\Codveda\Basic\Task 2 (C# Basics and OOP)\bin\Debug\net8.0\Task 2 (C# Basics and OOP).runtimeconfig.json
+C:\Users\DELL\Desktop\Codveda\Basic\Task 2 (C# Basics and OOP)\bin\Debug\net8.0\Task 2 (C# Basics and OOP).dll
+C:\Users\DELL\Desktop\Codveda\Basic\Task 2 (C# Basics and OOP)\bin\Debug\net8.0\Task 2 (C# Basics and OOP).pdb
+C:\Users\DELL\Desktop\Codveda\Basic\Task 2 (C# Basics and OOP)\obj\Debug\net8.0\Task 2 (C# Basics and OOP).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Codveda\Basic\Task 2 (C# Basics and OOP)\obj\Debug\net8.0\Task 2 (C# Basics and OOP).AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Codveda\Basic\Task 2 (C# Basics and OOP)\obj\Debug\net8.0\Task 2 (C# Basics and OOP).AssemblyInfo.cs
+C:\Users\DELL\Desktop\Codveda\Basic\Task 2 (C# Basics and OOP)\obj\Debug\net8.0\Task 2 (C# Basics and OOP).csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Codveda\Basic\Task 2 (C# Basics and OOP)\obj\Debug\net8.0\Task 2 (C# Basics and OOP).dll
+C:\Users\DELL\Desktop\Codveda\Basic\Task 2 (C# Basics and OOP)\obj\Debug\net8.0\refint\Task 2 (C# Basics and OOP).dll
+C:\Users\DELL\Desktop\Codveda\Basic\Task 2 (C# Basics and OOP)\obj\Debug\net8.0\Task 2 (C# Basics and OOP).pdb
+C:\Users\DELL\Desktop\Codveda\Basic\Task 2 (C# Basics and OOP)\obj\Debug\net8.0\Task 2 (C# Basics and OOP).genruntimeconfig.cache
+C:\Users\DELL\Desktop\Codveda\Basic\Task 2 (C# Basics and OOP)\obj\Debug\net8.0\ref\Task 2 (C# Basics and OOP).dll

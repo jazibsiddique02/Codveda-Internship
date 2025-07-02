@@ -1,0 +1,15 @@
+bin/
+ obj/
+
+ # Visual Studio user-specific files
+ *.csproj.user
+ .vs/
+ *.suo
+ *.sln.docstates
+
+ # Other common ignores for C# projects
+ *.user
+ *.cache
+ *.pdb
+ *.dll
+ *.exe
