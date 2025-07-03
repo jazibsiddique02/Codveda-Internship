@@ -1,0 +1,20 @@
+C:\Users\DELL\Desktop\Codveda\Basic\Task 3 (Exception Handling and Debugging)\obj\Debug\net8.0\Task 3 (Exception Handling and Debugging).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Codveda\Basic\Task 3 (Exception Handling and Debugging)\obj\Debug\net8.0\Task 3 (Exception Handling and Debugging).AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Codveda\Basic\Task 3 (Exception Handling and Debugging)\obj\Debug\net8.0\Task 3 (Exception Handling and Debugging).AssemblyInfo.cs
+C:\Users\DELL\Desktop\Codveda\Basic\Task 3 (Exception Handling and Debugging)\obj\Debug\net8.0\Task 3 (Exception Handling and Debugging).csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Codveda\Basic\Task 3 (Exception Handling and Debugging)\obj\Debug\net8.0\Task 3 (Exception Handling and Debugging).sourcelink.json
+C:\Users\DELL\Desktop\Codveda\Basic\Task 3 (Exception Handling and Debugging)\bin\Debug\net8.0\Task 3 (Exception Handling and Debugging).exe
+C:\Users\DELL\Desktop\Codveda\Basic\Task 3 (Exception Handling and Debugging)\bin\Debug\net8.0\Task 3 (Exception Handling and Debugging).deps.json
+C:\Users\DELL\Desktop\Codveda\Basic\Task 3 (Exception Handling and Debugging)\bin\Debug\net8.0\Task 3 (Exception Handling and Debugging).runtimeconfig.json
+C:\Users\DELL\Desktop\Codveda\Basic\Task 3 (Exception Handling and Debugging)\bin\Debug\net8.0\Task 3 (Exception Handling and Debugging).dll
+C:\Users\DELL\Desktop\Codveda\Basic\Task 3 (Exception Handling and Debugging)\bin\Debug\net8.0\Task 3 (Exception Handling and Debugging).pdb
+C:\Users\DELL\Desktop\Codveda\Basic\Task 3 (Exception Handling and Debugging)\obj\Debug\net8.0\Task 3 (Exception Handling and Debugging).dll
+C:\Users\DELL\Desktop\Codveda\Basic\Task 3 (Exception Handling and Debugging)\obj\Debug\net8.0\refint\Task 3 (Exception Handling and Debugging).dll
+C:\Users\DELL\Desktop\Codveda\Basic\Task 3 (Exception Handling and Debugging)\obj\Debug\net8.0\Task 3 (Exception Handling and Debugging).pdb
+C:\Users\DELL\Desktop\Codveda\Basic\Task 3 (Exception Handling and Debugging)\obj\Debug\net8.0\Task 3 (Exception Handling and Debugging).genruntimeconfig.cache
+C:\Users\DELL\Desktop\Codveda\Basic\Task 3 (Exception Handling and Debugging)\obj\Debug\net8.0\ref\Task 3 (Exception Handling and Debugging).dll
+C:\Users\DELL\Desktop\Codveda\Basic\Task 3 (Exception Handling and Debugging)\bin\Debug\net8.0\Serilog.dll
+C:\Users\DELL\Desktop\Codveda\Basic\Task 3 (Exception Handling and Debugging)\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+C:\Users\DELL\Desktop\Codveda\Basic\Task 3 (Exception Handling and Debugging)\bin\Debug\net8.0\Serilog.Sinks.File.dll
+C:\Users\DELL\Desktop\Codveda\Basic\Task 3 (Exception Handling and Debugging)\obj\Debug\net8.0\Task 3 (Exception Handling and Debugging).csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Codveda\Basic\Task 3 (Exception Handling and Debugging)\obj\Debug\net8.0\Task 3 (.120B4F2E.Up2Date

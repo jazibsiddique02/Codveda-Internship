@@ -1,0 +1,2 @@
+2025-07-03 08:10:45.361 +05:00 [ERR] InsufficientFundsException: You do not have sufficient funds in your account.
+2025-07-03 08:11:54.539 +05:00 [ERR] InvalidAmountException: The amount specified is invalid.
