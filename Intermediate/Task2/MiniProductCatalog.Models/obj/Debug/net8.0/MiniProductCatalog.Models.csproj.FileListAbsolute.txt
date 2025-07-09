@@ -1,0 +1,12 @@
+C:\Users\DELL\Desktop\Codveda\Intermediate\Task2\MiniProductCatalog.Models\bin\Debug\net8.0\MiniProductCatalog.Models.deps.json
+C:\Users\DELL\Desktop\Codveda\Intermediate\Task2\MiniProductCatalog.Models\bin\Debug\net8.0\MiniProductCatalog.Models.dll
+C:\Users\DELL\Desktop\Codveda\Intermediate\Task2\MiniProductCatalog.Models\bin\Debug\net8.0\MiniProductCatalog.Models.pdb
+C:\Users\DELL\Desktop\Codveda\Intermediate\Task2\MiniProductCatalog.Models\obj\Debug\net8.0\MiniProductCatalog.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Codveda\Intermediate\Task2\MiniProductCatalog.Models\obj\Debug\net8.0\MiniProductCatalog.Models.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Codveda\Intermediate\Task2\MiniProductCatalog.Models\obj\Debug\net8.0\MiniProductCatalog.Models.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Codveda\Intermediate\Task2\MiniProductCatalog.Models\obj\Debug\net8.0\MiniProductCatalog.Models.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Codveda\Intermediate\Task2\MiniProductCatalog.Models\obj\Debug\net8.0\MiniProductCatalog.Models.sourcelink.json
+C:\Users\DELL\Desktop\Codveda\Intermediate\Task2\MiniProductCatalog.Models\obj\Debug\net8.0\MiniProductCatalog.Models.dll
+C:\Users\DELL\Desktop\Codveda\Intermediate\Task2\MiniProductCatalog.Models\obj\Debug\net8.0\refint\MiniProductCatalog.Models.dll
+C:\Users\DELL\Desktop\Codveda\Intermediate\Task2\MiniProductCatalog.Models\obj\Debug\net8.0\MiniProductCatalog.Models.pdb
+C:\Users\DELL\Desktop\Codveda\Intermediate\Task2\MiniProductCatalog.Models\obj\Debug\net8.0\ref\MiniProductCatalog.Models.dll

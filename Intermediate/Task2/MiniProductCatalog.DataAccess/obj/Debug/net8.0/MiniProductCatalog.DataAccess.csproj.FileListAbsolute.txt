@@ -1,0 +1,39 @@
+C:\Users\DELL\Desktop\Codveda\Intermediate\MiniProductCatalog\MiniProductCatalog.DataAccess\bin\Debug\net8.0\Task 2 (Mini Product Catalog).deps.json
+C:\Users\DELL\Desktop\Codveda\Intermediate\MiniProductCatalog\MiniProductCatalog.DataAccess\bin\Debug\net8.0\Task 2 (Mini Product Catalog).runtimeconfig.json
+C:\Users\DELL\Desktop\Codveda\Intermediate\MiniProductCatalog\MiniProductCatalog.DataAccess\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\DELL\Desktop\Codveda\Intermediate\MiniProductCatalog\MiniProductCatalog.DataAccess\bin\Debug\net8.0\appsettings.json
+C:\Users\DELL\Desktop\Codveda\Intermediate\MiniProductCatalog\MiniProductCatalog.DataAccess\bin\Debug\net8.0\Task 2 (Mini Product Catalog).staticwebassets.runtime.json
+C:\Users\DELL\Desktop\Codveda\Intermediate\MiniProductCatalog\MiniProductCatalog.DataAccess\bin\Debug\net8.0\Task 2 (Mini Product Catalog).staticwebassets.endpoints.json
+C:\Users\DELL\Desktop\Codveda\Intermediate\MiniProductCatalog\MiniProductCatalog.DataAccess\bin\Debug\net8.0\Task 2 (Mini Product Catalog).exe
+C:\Users\DELL\Desktop\Codveda\Intermediate\MiniProductCatalog\MiniProductCatalog.DataAccess\bin\Debug\net8.0\MiniProductCatalog.DataAccess.deps.json
+C:\Users\DELL\Desktop\Codveda\Intermediate\MiniProductCatalog\MiniProductCatalog.DataAccess\bin\Debug\net8.0\MiniProductCatalog.DataAccess.dll
+C:\Users\DELL\Desktop\Codveda\Intermediate\MiniProductCatalog\MiniProductCatalog.DataAccess\bin\Debug\net8.0\MiniProductCatalog.DataAccess.pdb
+C:\Users\DELL\Desktop\Codveda\Intermediate\MiniProductCatalog\MiniProductCatalog.DataAccess\bin\Debug\net8.0\Task 2 (Mini Product Catalog).dll
+C:\Users\DELL\Desktop\Codveda\Intermediate\MiniProductCatalog\MiniProductCatalog.DataAccess\bin\Debug\net8.0\Task 2 (Mini Product Catalog).pdb
+C:\Users\DELL\Desktop\Codveda\Intermediate\MiniProductCatalog\MiniProductCatalog.DataAccess\obj\Debug\net8.0\MiniProductCatalog.DataAccess.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Codveda\Intermediate\MiniProductCatalog\MiniProductCatalog.DataAccess\obj\Debug\net8.0\MiniProductCatalog.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Codveda\Intermediate\MiniProductCatalog\MiniProductCatalog.DataAccess\obj\Debug\net8.0\MiniProductCatalog.DataAccess.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Codveda\Intermediate\MiniProductCatalog\MiniProductCatalog.DataAccess\obj\Debug\net8.0\MiniProductCatalog.DataAccess.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Codveda\Intermediate\MiniProductCatalog\MiniProductCatalog.DataAccess\obj\Debug\net8.0\MiniProductCatalog.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Codveda\Intermediate\MiniProductCatalog\MiniProductCatalog.DataAccess\obj\Debug\net8.0\MiniProductCatalog.DataAccess.sourcelink.json
+C:\Users\DELL\Desktop\Codveda\Intermediate\MiniProductCatalog\MiniProductCatalog.DataAccess\obj\Debug\net8.0\MiniProd.66469E01.Up2Date
+C:\Users\DELL\Desktop\Codveda\Intermediate\MiniProductCatalog\MiniProductCatalog.DataAccess\obj\Debug\net8.0\MiniProductCatalog.DataAccess.dll
+C:\Users\DELL\Desktop\Codveda\Intermediate\MiniProductCatalog\MiniProductCatalog.DataAccess\obj\Debug\net8.0\refint\MiniProductCatalog.DataAccess.dll
+C:\Users\DELL\Desktop\Codveda\Intermediate\MiniProductCatalog\MiniProductCatalog.DataAccess\obj\Debug\net8.0\MiniProductCatalog.DataAccess.pdb
+C:\Users\DELL\Desktop\Codveda\Intermediate\MiniProductCatalog\MiniProductCatalog.DataAccess\obj\Debug\net8.0\ref\MiniProductCatalog.DataAccess.dll
+C:\Users\DELL\Desktop\Codveda\Intermediate\Task2\MiniProductCatalog.DataAccess\bin\Debug\net8.0\MiniProductCatalog.DataAccess.deps.json
+C:\Users\DELL\Desktop\Codveda\Intermediate\Task2\MiniProductCatalog.DataAccess\bin\Debug\net8.0\MiniProductCatalog.DataAccess.dll
+C:\Users\DELL\Desktop\Codveda\Intermediate\Task2\MiniProductCatalog.DataAccess\bin\Debug\net8.0\MiniProductCatalog.DataAccess.pdb
+C:\Users\DELL\Desktop\Codveda\Intermediate\Task2\MiniProductCatalog.DataAccess\bin\Debug\net8.0\MiniProductCatalog.Models.dll
+C:\Users\DELL\Desktop\Codveda\Intermediate\Task2\MiniProductCatalog.DataAccess\bin\Debug\net8.0\MiniProductCatalog.Models.pdb
+C:\Users\DELL\Desktop\Codveda\Intermediate\Task2\MiniProductCatalog.DataAccess\obj\Debug\net8.0\MiniProductCatalog.DataAccess.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Codveda\Intermediate\Task2\MiniProductCatalog.DataAccess\obj\Debug\net8.0\MiniProductCatalog.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Codveda\Intermediate\Task2\MiniProductCatalog.DataAccess\obj\Debug\net8.0\MiniProductCatalog.DataAccess.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Codveda\Intermediate\Task2\MiniProductCatalog.DataAccess\obj\Debug\net8.0\MiniProductCatalog.DataAccess.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Codveda\Intermediate\Task2\MiniProductCatalog.DataAccess\obj\Debug\net8.0\MiniProductCatalog.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Codveda\Intermediate\Task2\MiniProductCatalog.DataAccess\obj\Debug\net8.0\MiniProductCatalog.DataAccess.sourcelink.json
+C:\Users\DELL\Desktop\Codveda\Intermediate\Task2\MiniProductCatalog.DataAccess\obj\Debug\net8.0\MiniProd.66469E01.Up2Date
+C:\Users\DELL\Desktop\Codveda\Intermediate\Task2\MiniProductCatalog.DataAccess\obj\Debug\net8.0\MiniProductCatalog.DataAccess.dll
+C:\Users\DELL\Desktop\Codveda\Intermediate\Task2\MiniProductCatalog.DataAccess\obj\Debug\net8.0\refint\MiniProductCatalog.DataAccess.dll
+C:\Users\DELL\Desktop\Codveda\Intermediate\Task2\MiniProductCatalog.DataAccess\obj\Debug\net8.0\MiniProductCatalog.DataAccess.pdb
+C:\Users\DELL\Desktop\Codveda\Intermediate\Task2\MiniProductCatalog.DataAccess\obj\Debug\net8.0\ref\MiniProductCatalog.DataAccess.dll
