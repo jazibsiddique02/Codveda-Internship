@@ -13,3 +13,6 @@ bin/
  *.pdb
  *.dll
  *.exe
+
+ Intermediate/Task2/.vs/
+Intermediate/Task2/.vs/*
