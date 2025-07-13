@@ -1,0 +1,16 @@
+2025-07-13 09:23:57.078 +05:00 [INF] Request to /Products took 1715ms
+2025-07-13 09:24:07.467 +05:00 [INF] Request to / took 27ms
+2025-07-13 09:24:33.358 +05:00 [INF] Request to / took 4ms
+2025-07-13 09:24:34.741 +05:00 [INF] Request to /Home/Privacy took 67ms
+2025-07-13 09:24:36.692 +05:00 [INF] Request to /Products took 286ms
+2025-07-13 09:24:39.100 +05:00 [INF] Request to /Products/Create took 308ms
+2025-07-13 09:24:47.335 +05:00 [INF] Request to /Products/Create took 611ms
+2025-07-13 09:24:47.383 +05:00 [INF] Request to /Products took 28ms
+2025-07-13 09:24:51.361 +05:00 [INF] Request to /Products/Edit/13 took 543ms
+2025-07-13 09:24:58.161 +05:00 [INF] Request to /Products/Edit/13 took 50ms
+2025-07-13 09:24:58.209 +05:00 [INF] Request to /Products took 25ms
+2025-07-13 09:25:01.279 +05:00 [INF] Request to /Products/Details/13 took 72ms
+2025-07-13 09:25:03.425 +05:00 [INF] Request to /Products took 40ms
+2025-07-13 09:25:06.052 +05:00 [INF] Request to /Products/Delete/13 took 48ms
+2025-07-13 09:25:08.058 +05:00 [INF] Request to /Products/Delete/13 took 82ms
+2025-07-13 09:25:08.105 +05:00 [INF] Request to /Products took 22ms

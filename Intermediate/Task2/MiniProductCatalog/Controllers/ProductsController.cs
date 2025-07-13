@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using MiniProductCatalog.DataAccess.Data;
+using MiniProductCatalog.DataAccess.Repository.Interface;
 using MiniProductCatalog.Models;
 
 
@@ -13,29 +14,28 @@ namespace MiniProductCatalog.Controllers
 {
     public class ProductsController : Controller
     {
-        private readonly ApplicationDbContext _context;
-
-        public ProductsController(ApplicationDbContext context)
+        private readonly IUnitOfWork _unitOfWork;
+        public ProductsController(IUnitOfWork unitOfWork)
         {
-            _context = context;
+            _unitOfWork = unitOfWork;
         }
 
         // GET: Products
-        public async Task<IActionResult> Index()
+        public IActionResult Index()
         {
-            return View(await _context.Products.ToListAsync());
+            return View(_unitOfWork.productRepository.GetAll());
         }
 
         // GET: Products/Details/5
-        public async Task<IActionResult> Details(int? id)
+        public IActionResult Details(int id)
         {
             if (id == null)
             {
                 return NotFound();
             }
 
-            var product = await _context.Products
-                .FirstOrDefaultAsync(m => m.Id == id);
+            var product = _unitOfWork.productRepository
+                .Get(id);
             if (product == null)
             {
                 return NotFound();
@@ -55,12 +55,12 @@ namespace MiniProductCatalog.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,Name,Category,Price")] Product product)
+        public IActionResult Create([Bind("Id,Name,Category,Price")] Product product)
         {
             if (ModelState.IsValid)
             {
-                _context.Add(product);
-                await _context.SaveChangesAsync();
+                _unitOfWork.productRepository.Add(product);
+                _unitOfWork.Save();
                 TempData["success"] = "Product created successfully!";
                 return RedirectToAction(nameof(Index));
             }
@@ -68,14 +68,14 @@ namespace MiniProductCatalog.Controllers
         }
 
         // GET: Products/Edit/5
-        public async Task<IActionResult> Edit(int? id)
+        public IActionResult Edit(int id)
         {
             if (id == null)
             {
                 return NotFound();
             }
 
-            var product = await _context.Products.FindAsync(id);
+            var product = _unitOfWork.productRepository.Get(id);
             if (product == null)
             {
                 return NotFound();
@@ -88,7 +88,7 @@ namespace MiniProductCatalog.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("Id,Name,Category,Price")] Product product)
+        public IActionResult Edit(int id, [Bind("Id,Name,Category,Price")] Product product)
         {
             if (id != product.Id)
             {
@@ -97,11 +97,11 @@ namespace MiniProductCatalog.Controllers
 
             if (ModelState.IsValid)
             {
-                _context.Entry(product).State = EntityState.Modified;
                 try
                 {
+                _unitOfWork.productRepository.Update(product);
                     
-                    await _context.SaveChangesAsync();
+                    _unitOfWork.Save();
                     TempData["success"] = "Product updated successfully!";
                 }
                 catch (DbUpdateConcurrencyException)
@@ -121,15 +121,15 @@ namespace MiniProductCatalog.Controllers
         }
 
         // GET: Products/Delete/5
-        public async Task<IActionResult> Delete(int? id)
+        public IActionResult Delete(int id)
         {
             if (id == null)
             {
                 return NotFound();
             }
 
-            var product = await _context.Products
-                .FirstOrDefaultAsync(m => m.Id == id);
+            var product =  _unitOfWork.productRepository
+                .Get(id);
             if (product == null)
             {
                 return NotFound();
@@ -141,22 +141,20 @@ namespace MiniProductCatalog.Controllers
         // POST: Products/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> DeleteConfirmed(int id)
+        public IActionResult DeleteConfirmed(int id)
         {
-            var product = await _context.Products.FindAsync(id);
-            if (product != null)
-            {
-                _context.Products.Remove(product);
-            }
-
-            await _context.SaveChangesAsync();
+            
+            _unitOfWork.productRepository.Remove(id);
+            _unitOfWork.Save();
             TempData["success"] = "Product deleted successfully!";
             return RedirectToAction(nameof(Index));
         }
 
         private bool ProductExists(int id)
         {
-            return _context.Products.Any(e => e.Id == id);
+            var product = _unitOfWork.productRepository.Get(id);
+            return product != null;
+           
         }
     }
 }

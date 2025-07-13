@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MiniProductCatalog.Models")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd5a706250ce0311553d72f2a61e224237e33762")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b0b6301d8942d20b3d745a1f6991697cf3a64df")]
 [assembly: System.Reflection.AssemblyProductAttribute("MiniProductCatalog.Models")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MiniProductCatalog.Models")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
