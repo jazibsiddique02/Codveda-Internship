@@ -14,3 +14,12 @@
 2025-07-13 09:25:06.052 +05:00 [INF] Request to /Products/Delete/13 took 48ms
 2025-07-13 09:25:08.058 +05:00 [INF] Request to /Products/Delete/13 took 82ms
 2025-07-13 09:25:08.105 +05:00 [INF] Request to /Products took 22ms
+2025-07-13 10:19:20.060 +05:00 [INF] Request to / took 110ms
+2025-07-13 10:19:57.491 +05:00 [INF] Request to /Products took 818ms
+2025-07-13 10:20:43.553 +05:00 [INF] Request to /Products/Create took 84ms
+2025-07-13 10:20:57.473 +05:00 [INF] Request to /Products took 37ms
+2025-07-13 10:20:59.838 +05:00 [INF] Request to /Products/Edit/2 took 104ms
+2025-07-13 10:21:10.517 +05:00 [INF] Request to /Products took 15ms
+2025-07-13 10:21:12.364 +05:00 [INF] Request to /Products/Details/2 took 20ms
+2025-07-13 10:21:23.162 +05:00 [INF] Request to /Products took 18ms
+2025-07-13 10:21:24.763 +05:00 [INF] Request to /Products/Delete/3 took 18ms

@@ -1,0 +1,13 @@
+services:
+  apigateway:
+    build:
+      context: .
+      dockerfile: APIGateway/Dockerfile
+  productservice:
+    build:
+      context: .
+      dockerfile: ProductService/Dockerfile
+  reviewservice:
+    build:
+      context: .
+      dockerfile: ReviewService/Dockerfile

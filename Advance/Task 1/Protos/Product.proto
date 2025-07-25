@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+option csharp_namespace = "ProductService.Grpc";
+
+service ProductGrpc {
+  rpc GetProductById (ProductRequest) returns (ProductResponse);
+}
+
+message ProductRequest {
+  int32 id = 1;
+}
+
+message ProductResponse {
+  int32 id = 1;
+  string name = 2;
+  bool exists = 3;
+}

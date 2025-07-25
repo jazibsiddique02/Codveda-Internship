@@ -1,0 +1,87 @@
+{
+  "Routes": [
+    {
+      "DownstreamPathTemplate": "/api/products",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7299
+        }
+      ],
+      "UpstreamPathTemplate": "/products",
+      "UpstreamHttpMethod": [ "GET", "POST" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/reviews/{productId}",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7297
+        }
+      ],
+      "UpstreamPathTemplate": "/reviews/{productId}",
+      "UpstreamHttpMethod": [ "GET" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/reviews",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7297
+        }
+      ],
+      "UpstreamPathTemplate": "/reviews",
+      "UpstreamHttpMethod": [ "POST" ]
+    }
+  ],
+  "GlobalConfiguration": {
+    "ServiceDiscoveryProvider": {
+      "Host": "localhost",
+      "Port": 8500,
+      "Type": "Consul"
+    },
+    "BaseUrl": "https://localhost:7152"
+  }
+}
+
+
+
+
+
+
+//{
+//  "Routes": [
+//    {
+//      "DownstreamPathTemplate": "/api/products",
+//      "DownstreamScheme": "https",
+//      "ServiceName": "ProductService",
+//      "LoadBalancerOptions": {
+//        "Type": "RoundRobin"
+//      },
+//      "UpstreamPathTemplate": "/products",
+//      "UpstreamHttpMethod": [ "GET", "POST" ]
+//    },
+//    {
+//      "DownstreamPathTemplate": "/api/reviews",
+//      "DownstreamScheme": "https",
+//      "ServiceName": "ReviewService",
+//      "LoadBalancerOptions": {
+//        "Type": "RoundRobin"
+//      },
+//      "UpstreamPathTemplate": "/reviews",
+//      "UpstreamHttpMethod": [ "POST" ]
+//    }
+//  ],
+//  "GlobalConfiguration": {
+//    "ServiceDiscoveryProvider": {
+//      "Host": "localhost",
+//      "Port": 8500,
+//      "Type": "Consul",
+//      "Scheme": "http"
+
+//    }
+//  }
+//}
